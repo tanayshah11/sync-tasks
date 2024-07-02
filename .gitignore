@@ -1,0 +1,29 @@
+# Virtual environment
+/venv/
+
+# Credentials and token files
+/credentials.json
+/token_*.json
+
+# Log files
+/sync-tasks.log
+/sync-tasks.err
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# MacOS files
+.DS_Store
+
+# Ignore environment variables file
+.env
