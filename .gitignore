@@ -27,3 +27,6 @@ __pycache__/
 
 # Ignore environment variables file
 .env
+
+# Main script with sensitive information
+main.py
